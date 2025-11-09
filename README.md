@@ -5,12 +5,18 @@
 A simple download metrics app where you can compare Pandas's downloads to other popular Python libraries!
 
 <img src="https://user-images.githubusercontent.com/27242399/157869053-a6363c2b-1849-426d-9547-6cd10d43a6f6.png" width="500"/>
-
 ---
 ### About the app
 
 - App created using 🎈[Streamlit](https://streamlit.io/)
 - Deployed on [Streamlit Cloud](https://streamlit.io/cloud) ☁️
+---
+## Quickstart
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 ---
 ### Questions? Comments?
 
